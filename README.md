@@ -9,6 +9,6 @@
 
 #4.Wireframe.
 
-#5.Mockup de la interfaz de usuario (UI), puede ser link de one drive, de github, XD, Figma o de la herramienta hayas utilizado para hacer o documentar tu Interfaz de usuario (UI).
+#5.Mockup de la interfaz de usuario (UI).
 
 #Nota: Buscaré pulir el trabajo de este repositorio poco a poco
