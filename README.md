@@ -1,6 +1,7 @@
 # IntroFrontEndLaunchX
 #En el presente repositorio colocaré las actividades realizadas en el bootcamp de Innovacción Virtual - Launch X
-# 1.Documento de toma de requerimientos.
+
+#1.Documento de toma de requerimientos.
 
 #2.Buyer Persona.
 
